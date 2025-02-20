@@ -1,4 +1,4 @@
 # first-repo
 My first mini project
 <br>
-Author - Vaibhav Pandey
+Author - Vaibhav Pandey (college)
